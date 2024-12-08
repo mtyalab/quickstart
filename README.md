@@ -22,7 +22,7 @@ A Spring Boot application designed to provide a quick start for building RESTful
 ---
 
 ## Requirements  
-- Java 17+  
+- Java 21+  
 - Maven  
 - MongoDB  
 - Twilio Account (for SMS notifications)  
